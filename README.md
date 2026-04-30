@@ -24,3 +24,11 @@ javac EP1.java && java EP1
 # C
 gcc EP6.c -o EP6 && ./EP6
 ```
+
+<div align="center">
+  
+---
+
+**Bunny_Codec** · *Progress over Perfection* · © 2025
+
+</div>
