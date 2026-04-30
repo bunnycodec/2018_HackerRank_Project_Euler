@@ -29,6 +29,6 @@ gcc EP6.c -o EP6 && ./EP6
   
 ---
 
-**Bunny_Codec** · *Progress over Perfection* · © 2025
+**Bunny_Codec** · *Progress over Perfection* · © 2018
 
 </div>
